@@ -1,0 +1,2 @@
+# Ettotto_Diary
+Jekyll使ってblogを無料で運営したいよねってリポジトリ。
