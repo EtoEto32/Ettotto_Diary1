@@ -75,6 +75,7 @@ GEM
 
 PLATFORMS
   x64-mingw-ucrt
+
 DEPENDENCIES
   jekyll (>= 3.8.5)
   jekyll-feed (~> 0.6)
