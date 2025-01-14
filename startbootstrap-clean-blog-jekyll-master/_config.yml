@@ -6,8 +6,8 @@ baseurl:            ""
 url:                "https://ettottoblog.github.io"
 
 # Social Profiles
-twitter_username: https://x.com/EtoEto32/
-github_username: https://github.com/EtoEto32
+twitter_username: EtoEto32
+github_username: EtoEto32
 
 # Build settings
 markdown:           kramdown
